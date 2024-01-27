@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\bin\Debug\net8.0\Clase2progra.exe
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\bin\Debug\net8.0\Clase2progra.deps.json
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\bin\Debug\net8.0\Clase2progra.runtimeconfig.json
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\bin\Debug\net8.0\Clase2progra.dll
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\bin\Debug\net8.0\Clase2progra.pdb
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.AssemblyInfo.cs
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.dll
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\refint\Clase2progra.dll
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.pdb
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\Clase2progra.genruntimeconfig.cache
+C:\Users\adria\source\repos\Clase2progra\Clase2progra\obj\Debug\net8.0\ref\Clase2progra.dll
